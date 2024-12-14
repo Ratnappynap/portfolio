@@ -62,25 +62,25 @@
 <div class="rabotivse"> 
     <div class="scrin1">
         <p>Сайт-визитка</p>
-<img src="IMG/saitvisitca.png" alt="saitvisitca"><br>
+<img src="img/saitvisitca.png" alt="saitvisitca"><br>
 <a href="https://ratnappynap.github.io/saitvisitca/site.html">Посмотреть сайт</a>
 
     </div>
     <div class="scrin2">
         <p>Мой первый сайт</p>
-<img src="IMG/moipervii.png" alt="pervisait"><br>
+<img src="img/moipervii.png" alt="pervisait"><br>
 <a href="https://ratnappynap.github.io/pervisait/">Посмотреть сайт</a>
 <p class="taknado">ЖК мелодия</p>
-<img src="IMG/jkmelody.png" alt="melody">
+<img src="img/jkmelody.png" alt="melody">
 <a href="https://ratnappynap.github.io/jk-melodi/">Посмотреть сайт</a>
 
     </div>
     <div class="scrin3">
         <p>Сайт с пчелками с боковой панелью</p>
-<img src="IMG/pcholi.png" alt="pcholi"><br>
+<img src="img/pcholi.png" alt="pcholi"><br>
 <a href="https://ratnappynap.github.io/pcholi/inde.html">Посмотреть сайт</a>
         <p>КР-17</p>
-<img src="IMG/kr17.png" alt="kr17"><br>
+<img src="img/kr17.png" alt="kr17"><br>
 <a href="https://ratnappynap.github.io/kr17/">Посмотреть сайт</a>
 
     </div>
@@ -110,13 +110,13 @@
     <div class="logotipi">
         <p>Социальные сети:</p>
         <div class="odno">
-            <a href="#"><img src="IMG/odnocl.svg" alt="odnocklassniki"></a>
+            <a href="#"><img src="img/odnocl.svg" alt="odnocklassniki"></a>
         </div>
         <div class="vk">
-            <a href="#"><img src="IMG/vk.svg" alt="vk"></a>
+            <a href="#"><img src="img/vk.svg" alt="vk"></a>
         </div>
         <div class="telega">
-            <a href="#"><img src="IMG/telega.svg" alt="telega"></a>
+            <a href="#"><img src="img/telega.svg" alt="telega"></a>
         </div>
     </div>
     <a href="sait.html">portfolio@portfolio.com</a>
